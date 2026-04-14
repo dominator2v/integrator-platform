@@ -1,7 +1,6 @@
 # Integrator Platform
 
-Narzędzie do integracji platform marketplace dla sprzedawcy prowadzącego
-jednoosobową działalność gospodarczą w Polsce.
+Narzędzie do integracji platform marketplace
 
 ## Cel aplikacji
 
